@@ -5,6 +5,8 @@ title: Few-shot transfer of tool-use skills using human demonstrations with prox
 
 # Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
 
+Authors
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/zP4JvHaCWHk?start=11" frameborder="0" allowfullscreen></iframe>
 
 ## Dataset

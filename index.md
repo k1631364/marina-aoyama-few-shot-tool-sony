@@ -11,10 +11,10 @@ Marina Y. Aoyama<sup>1</sup>, Sethu Vijayakumar<sup>1</sup>, Tetsuya Narita <sup
 
 IEEE Robotics and Automation Letters (RA-L) 2025 
 
-<p align="center">
-  <a href="https://ieeexplore.ieee.org/abstract/document/11053701">📄 Paper</a> |
-  <a href="[https://youtu.be/yourvideo](https://www.youtube.com/embed/zP4JvHaCWHk?start=11)">▶️ Video</a> |
-</p>
+<div class="buttons">
+  <a class="button is-dark" href="https://ieeexplore.ieee.org/abstract/document/11053701" target="_blank">📄 Paper</a>
+  <a class="button is-dark" href="https://www.youtube.com/embed/zP4JvHaCWHk?start=11" target="_blank">▶️ Video</a>
+</div>
 
 Our few-shot approach learns to manipulate new tools with few demonstrations! 
 

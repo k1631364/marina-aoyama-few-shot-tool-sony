@@ -14,10 +14,8 @@ Marina Y. Aoyama<sup>1</sup>, Sethu Vijayakumar<sup>1</sup>, Tetsuya Narita <sup
 IEEE Robotics and Automation Letters (RA-L) 2025 
 
 <div style="text-align: center; margin: 1em 0;">
-  <a class="button is-dark is-rounded is-normal" href="https://ieeexplore.ieee.org/abstract/document/11053701" target="_blank">
-    <span class="icon">
-      <i class="fas fa-file-pdf"></i>
-    </span>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11053701" target="_blank" class="my-button">
+    <span class="icon"><i class="fas fa-file-pdf"></i></span>
     <span>Paper</span>
   </a>
 </div>

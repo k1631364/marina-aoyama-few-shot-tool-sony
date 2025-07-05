@@ -1,28 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    body {
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-weight: 300;  /* <- This makes it thinner */
-      max-width: 800px;
-      margin: auto;
-      padding: 2rem;
-      line-height: 1.6;
-      #4a4a4a;
+    /* Box sizing */
+    *, *::before, *::after {
+      box-sizing: border-box;
     }
-  
+
+    html {
+      background-color: #fff;
+      font-size: 16px;
+      -moz-osx-font-smoothing: grayscale;
+      -webkit-font-smoothing: antialiased;
+      min-width: 300px;
+      overflow-x: hidden;
+      overflow-y: scroll;
+      text-rendering: optimizeLegibility;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+      text-size-adjust: 100%;
+    }
+
+    body {
+      font-family: 'Noto Sans', BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      color: #4a4a4a;
+      font-weight: 400;
+      font-size: 1em;
+      line-height: 1.5;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
     h1, h2, h3, h4, h5, h6 {
-      font-weight: 600;  /* Match Cayman's bolder headings */
+      font-weight: 600;
       margin-top: 2rem;
       margin-bottom: 1rem;
     }
-  
-    p {
-      font-weight: 300;
+
+    .has-text-centered {
+      text-align: center !important;
+    }
+
+    /* mimic .is-size-4 */
+    .is-size-4 {
+      font-size: 1.5rem !important;
+    }
+
+    /* .publication-authors with Google Sans (fallback sans-serif) */
+    @font-face {
+      font-family: 'Google Sans';
+      src: local('Google Sans'), local('Roboto'), local('Arial'), sans-serif;
+    }
+    .publication-authors {
+      font-family: 'Google Sans', sans-serif;
+      color: #4286f4; /* uncomment this if you want that blue */
     }
   </style>
 </head>

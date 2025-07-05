@@ -3,7 +3,6 @@ layout: default
 title: Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 # Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing

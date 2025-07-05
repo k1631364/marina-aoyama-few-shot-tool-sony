@@ -42,4 +42,12 @@ Our method integrates tactile sensing...
 
 ## Results
 
+### Four surface following tasks 
+
+### Online adaptation 
+
+### Robustness to external disturbances 
+
+### Demo only (baseline) vs. Pre-train+Demo (proposed) 
+
 We demonstrate significant improvement...

@@ -44,6 +44,42 @@ Our method integrates tactile sensing...
 
 ### Four surface following tasks 
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
+
+  <div style="text-align: center;">
+    <video width="400" controls>
+      <source src="/assets/videos/widebrush_short_compressed.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Task 1 caption</div>
+  </div>
+
+  <div style="text-align: center;">
+    <video width="400" controls>
+      <source src="/assets/videos/widebrush_short_compressed.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Task 2 caption</div>
+  </div>
+
+  <div style="text-align: center;">
+    <video width="400" controls>
+      <source src="/assets/videos/widebrush_short_compressed.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Task 3 caption</div>
+  </div>
+
+  <div style="text-align: center;">
+    <video width="400" controls>
+      <source src="/assets/videos/widebrush_short_compressed.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Task 4 caption</div>
+  </div>
+
+</div>
+
 ### Online adaptation 
 
 ### Robustness to external disturbances 

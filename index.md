@@ -84,7 +84,7 @@ Our method integrates tactile sensing...
 
   <div style="text-align: center;">
     <video width="400" controls>
-      <source src="assets/videos/widebrush_short_compressed.mp4" type="video/mp4">
+      <source src="assets/videos/real_online_inclination.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Task 1 caption</div>
@@ -92,7 +92,7 @@ Our method integrates tactile sensing...
 
   <div style="text-align: center;">
     <video width="400" controls>
-      <source src="assets/videos/widebrush_short_compressed.mp4" type="video/mp4">
+      <source src="assets/videos/real_online_deformable_short.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Task 2 caption</div>

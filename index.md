@@ -51,7 +51,7 @@ Our method integrates tactile sensing...
       <source src="assets/videos/smallbrush_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Task 1 caption</div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Small brush</div>
   </div>
 
   <div style="text-align: center;">
@@ -59,7 +59,7 @@ Our method integrates tactile sensing...
       <source src="assets/videos/widebrush_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Task 2 caption</div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Wide brush</div>
   </div>
 
   <div style="text-align: center;">
@@ -67,7 +67,7 @@ Our method integrates tactile sensing...
       <source src="assets/videos/broom_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Task 3 caption</div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Broom</div>
   </div>
 
   <div style="text-align: center;">
@@ -75,7 +75,7 @@ Our method integrates tactile sensing...
       <source src="assets/videos/sponge_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Task 4 caption</div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Sponge</div>
   </div>
 
 </div>

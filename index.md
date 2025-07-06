@@ -111,7 +111,7 @@ Our method integrates tactile sensing...
       <source src="assets/videos/smallbrush_demoonly_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Changing inclination</div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Demo only (baseline)<br>Pressing too much! Tool slippage. </div>
   </div>
 
   <div style="text-align: center;">
@@ -119,7 +119,7 @@ Our method integrates tactile sensing...
       <source src="assets/videos/smallbrush_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Deformable surface</div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Pre-train+Demo (proposed) </div>
   </div>
 
 </div>

@@ -80,7 +80,7 @@ Our method integrates tactile sensing...
 
 </div>
 
-<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: nowrap; max-width: 850px; margin: auto;">
+<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: nowrap; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
     <video width="400" controls>

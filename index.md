@@ -80,6 +80,8 @@ Our method integrates tactile sensing...
 
 </div>
 
+### Online adaptation 
+
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: nowrap; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
@@ -99,8 +101,6 @@ Our method integrates tactile sensing...
   </div>
 
 </div>
-
-### Online adaptation 
 
 ### Robustness to external disturbances 
 

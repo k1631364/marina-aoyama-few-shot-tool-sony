@@ -41,6 +41,8 @@ Tools extend the manipulation abilities of robots, much like they do for humans.
 
 ## Method
 
+To address this, we propose a few-shot tool-use skill transfer framework using multimodal sensing. The framework involves pre-training the base policy to capture contact states common in tool-use skills in simulation and fine-tuning it with human demonstrations collected in the real-world target domain to bridge the domain gap. 
+
 <video width="800" height="450" controls muted>
   <source src="assets/videos/method_tooluse_short_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.

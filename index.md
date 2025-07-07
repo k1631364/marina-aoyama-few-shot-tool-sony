@@ -140,3 +140,20 @@ Our method integrates tactile sensing...
 ### Robustness to external disturbances 
 
 
+### Citation 
+<div style="text-align: center; margin: 2rem auto; max-width: 800px;">
+  <h2 style="font-size: 1.5rem; font-weight: 600;">📄 Cite Us</h2>
+  <p style="font-size: 1rem; color: #444;">If you find our work useful, please cite:</p>
+
+  <textarea readonly rows="10" style="width: 100%; padding: 1rem; font-family: monospace; font-size: 0.9rem; background: #f5f5f5; border-radius: 8px; border: 1px solid #ccc;">
+@article{aoyama2025few,
+  title={Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing},
+  author={Aoyama, Marina Y and Vijayakumar, Sethu and Narita, Tetsuya},
+  journal={IEEE Robotics and Automation Letters},
+  year={2025},
+  publisher={IEEE}
+}
+  </textarea>
+</div>
+
+

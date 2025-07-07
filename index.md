@@ -144,7 +144,7 @@ Our method integrates tactile sensing...
 
 ### Robustness to external disturbances 
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
+<div style="display: flex; justify-content: center; gap: 1rem; max-width: 800px; margin: auto;">
   
   <div style="text-align: center;">
     <video width="400" controls>

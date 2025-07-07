@@ -109,7 +109,7 @@ Our method integrates tactile sensing...
       <source src="assets/videos/smallbrush_step_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Third video caption</div>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Step painting</div>
   </div>
 
 </div>

@@ -44,7 +44,7 @@ Our method integrates tactile sensing...
 
 ### Four surface following tasks 
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem 1rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
     <video width="400" controls>

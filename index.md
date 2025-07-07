@@ -103,27 +103,7 @@ Our method integrates tactile sensing...
 </div>
 
 
-
-
-
-
-<div style="display: flex; justify-content: center; gap: 1rem; max-width: 1300px; margin: auto;">
-
-  <div style="text-align: center;">
-    <video width="400" controls>
-      <source src="assets/videos/real_online_inclination_compressed.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Changing inclination</div>
-  </div>
-
-  <div style="text-align: center;">
-    <video width="400" controls>
-      <source src="assets/videos/real_online_deformable_short_compressed.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Deformable surface</div>
-  </div>
+<div style="display: flex; justify-content: center; gap: 1rem; max-width: 800px; margin: auto;">
 
   <div style="text-align: center;">
     <video width="400" controls>

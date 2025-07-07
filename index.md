@@ -37,9 +37,7 @@ Tools extend the manipulation abilities of robots, much like they do for humans.
 
 ## Summary Video 
 
-<!--
 <iframe width="800" height="450" src="https://www.youtube.com/embed/zP4JvHaCWHk?start=11" frameborder="0" allowfullscreen></iframe>
--->
 
 ## Method
 
@@ -156,9 +154,8 @@ Our method integrates tactile sensing...
 
 </div>
 
-
 ### Citation 
-<div style="margin: 2rem auto; max-width: 900px; width: 100%; text-align: center;">
+<div style="margin: 2rem auto; max-width: 950px; width: 100%; text-align: center;">
   <textarea readonly rows="9" style="
     font-family: monospace;
     font-size: 0.85rem;
@@ -167,7 +164,7 @@ Our method integrates tactile sensing...
     border-radius: 6px;
     padding: 0.5rem;
     width: auto;
-    min-width: 900px;
+    min-width: 950px;
     max-width: 100%;
     resize: none;
     box-sizing: border-box;

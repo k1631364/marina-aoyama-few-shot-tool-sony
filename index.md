@@ -41,7 +41,10 @@ Tools extend the manipulation abilities of robots, much like they do for humans.
 
 ## Method
 
-Our method integrates tactile sensing...
+<video width="800" height="450" controls muted>
+  <source src="assets/videos/method_tooluse_short_compressed.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Results
 
@@ -149,7 +152,7 @@ Our method integrates tactile sensing...
       <source src="assets/videos/real_disturbances_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <--!<div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Real</div>-->
+    <!--<div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Real</div>-->
   </div>
 
 </div>

@@ -144,6 +144,26 @@ Our method integrates tactile sensing...
 
 ### Robustness to external disturbances 
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
+
+  <div style="text-align: center;">
+    <video width="400" controls>
+      <source src="assets/videos/real_disturbances_short_compressed" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Sim</div>
+  </div>
+
+  <div style="text-align: center;">
+    <video width="400" controls>
+      <source src="assets/videos/real_disturbances_short_compressed" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Real</div>
+  </div>
+
+</div>
+
 
 ### Citation 
 <div style="margin: 2rem auto; max-width: 800px; text-align: center;">

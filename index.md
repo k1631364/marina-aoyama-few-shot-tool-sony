@@ -175,7 +175,7 @@ Our method integrates tactile sensing...
     border-radius: 6px;
     padding: 0.5rem;
     width: auto;
-    min-width: 300px;
+    min-width: 800px;
     max-width: 100%;
     resize: none;
     box-sizing: border-box;

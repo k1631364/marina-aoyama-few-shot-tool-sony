@@ -146,21 +146,19 @@ Our method integrates tactile sensing...
 
 
 ### Citation 
-<div style="display: flex; flex-direction: column; align-items: center; margin: 2rem auto; max-width: 800px;">
-  <h2 style="font-size: 1.5rem; font-weight: 600;">📄 Cite Us</h2>
-  <p style="font-size: 1rem; color: #444; text-align: center;">If you find our work useful, please cite:</p>
-
-  <textarea readonly rows="10" style="
-    width: 100%;
-    max-width: 800px;
-    padding: 1rem;
+<div style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <textarea readonly rows="9" style="
     font-family: monospace;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     background: #f5f5f5;
-    border-radius: 8px;
     border: 1px solid #ccc;
-    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 0.5rem;
+    width: auto;
+    min-width: 300px;
+    max-width: 100%;
     resize: none;
+    box-sizing: border-box;
   ">@article{aoyama2025few,
   title={Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing},
   author={Aoyama, Marina Y and Vijayakumar, Sethu and Narita, Tetsuya},
@@ -169,5 +167,4 @@ Our method integrates tactile sensing...
   publisher={IEEE}
 }</textarea>
 </div>
-
 

@@ -166,7 +166,7 @@ Our method integrates tactile sensing...
 
 
 ### Citation 
-<div style="margin: 2rem auto; max-width: 800px; text-align: center;">
+<div style="margin: 2rem auto; max-width: 800px; width: 100%; text-align: center;">
   <textarea readonly rows="9" style="
     font-family: monospace;
     font-size: 0.85rem;

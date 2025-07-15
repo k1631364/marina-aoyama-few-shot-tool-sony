@@ -50,7 +50,8 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
   Your browser does not support the video tag.
 </video>
 
-## Results (All videos are shown at 1.0× speed!)
+## Results 
+All videos are shown at 1.0× speed!
 
 ### Four surface following tasks 
 

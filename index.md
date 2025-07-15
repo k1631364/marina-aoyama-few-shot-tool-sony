@@ -58,7 +58,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
 
   <div style="text-align: center;">
     <video width="400" controls muted loop autoplay>
-      <source src="assets/videos/smallbrush_demoonly_short_compressed.mp4" type="video/mp4">
+      <source src="assets/videos/sim_datacollection_cropped.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Pre-training in sim</div>
@@ -66,7 +66,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
 
   <div style="text-align: center;">
     <video width="400" controls muted loop autoplay>
-      <source src="assets/videos/smallbrush_short_compressed.mp4" type="video/mp4">
+      <source src="assets/videos/demo_datacollection_cropped.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Fine-tuning in real</div>

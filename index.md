@@ -164,7 +164,7 @@ All videos are shown at 1.0× speed!
 
 ### Citation 
 
-<div style="margin: 2rem auto; max-width: 1050px; text-align: left;">
+<div style="margin: 2rem auto; max-width: 1150px; text-align: left;">
   <pre style="
     font-family: monospace;
     font-size: 0.85rem;

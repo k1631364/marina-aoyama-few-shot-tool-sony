@@ -187,8 +187,7 @@ All videos are shown at 1.0× speed!
 </div>
 
 ### Citation 
-
-<div class="wide" style="
+<div class="wide citation-wide" style="
     max-width: 1020px;
     width: 100vw;
     margin-left: calc((100vw - 1020px) / -2);

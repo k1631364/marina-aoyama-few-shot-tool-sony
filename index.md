@@ -168,9 +168,9 @@ All videos are shown at 1.0× speed!
 
 <div class="wide" style="
   max-width: 1150px;
-  width: 100vw;
-  margin-left: calc((100vw - 1150px) / -2);
-  margin-right: calc((100vw - 1150px) / -2);
+  width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
   padding: 0 1rem;
   box-sizing: border-box;
   text-align: left;

@@ -30,9 +30,24 @@ IEEE Robotics and Automation Letters (RA-L) 2025
   </a>
 </div>
 
+<script>
+  const link = document.getElementById('jumpToVideo');
+  const video = document.getElementById('myVideo');
+
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    // Set the video time to 11 seconds
+    video.currentTime = 11;
+    // Play the video
+    video.play();
+    // Scroll to video (optional)
+    video.scrollIntoView({behavior: 'smooth'});
+  });
+</script>
+
 Our few-shot approach learns to manipulate new tools with few demonstrations! 
 
-<video width="800" height="450" controls muted loop autoplay>
+<video id="myVideo" width="800" height="450" controls muted loop autoplay>
   <source src="assets/videos/fourtask_short_video_compressed_noaudio.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -188,19 +203,4 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
   publisher={IEEE}
 }</textarea>
 </div>
-
-<script>
-  const link = document.getElementById('jumpToVideo');
-  const video = document.getElementById('myVideo');
-
-  link.addEventListener('click', (e) => {
-    e.preventDefault();
-    // Set the video time to 11 seconds
-    video.currentTime = 11;
-    // Play the video
-    video.play();
-    // Scroll to video (optional)
-    video.scrollIntoView({behavior: 'smooth'});
-  });
-</script>
 

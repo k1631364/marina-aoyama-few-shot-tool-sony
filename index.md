@@ -18,12 +18,7 @@ IEEE Robotics and Automation Letters (RA-L) 2025
     <span class="icon"><i class="fas fa-file-alt"></i></span>
     <span>Paper</span>
   </a>
-
-  <a href="https://www.youtube.com/embed/zP4JvHaCWHk?start=11" target="_blank" class="my-button">
-    <span class="icon"><i class="fas fa-video"></i></span>
-    <span>Video</span>
-  </a>
-
+  
   <a href="#" id="jumpToVideo" class="my-button">
     <span class="icon"><i class="fas fa-video"></i></span>
     <span>Video</span>

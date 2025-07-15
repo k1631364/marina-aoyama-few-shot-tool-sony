@@ -187,42 +187,38 @@ All videos are shown at 1.0× speed!
 </div>
 
 ### Citation 
-<div class="citation-wide" style="
-    padding: 0 1rem;
-    box-sizing: border-box;
-    text-align: left;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    position: relative;
-  ">
-  <button onclick="copyBibtex(this)" style="
-    position: absolute;
-    top: 0.5rem;
-    right: 20.5rem;
-    font-size: 0.75rem;
-    padding: 0.3rem 0.6rem;
-    border: none;
-    background: #ddd;
-    border-radius: 4px;
-    cursor: pointer;
-  ">Copy</button>
-  <pre style="
-    font-family: monospace;
-    font-size: 0.85rem;
-    background: #f5f5f5;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    padding: 0.75rem;
-    overflow-x: auto;
-    white-space: pre-wrap;
-    word-break: break-word;
-  "><code id="bibtex-block">@article{aoyama2025few,
+<div class="citation-wide">
+  <div style="position: relative; max-width: 950px; margin: 0 auto;">
+    <button onclick="copyBibtex(this)" style="
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      font-size: 0.75rem;
+      padding: 0.3rem 0.6rem;
+      border: none;
+      background: #ddd;
+      border-radius: 4px;
+      cursor: pointer;
+      z-index: 1;
+    ">Copy</button>
+    <pre style="
+      font-family: monospace;
+      font-size: 0.85rem;
+      background: #f5f5f5;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      padding: 2rem 0.75rem 0.75rem 0.75rem;  /* extra top padding for the button */
+      overflow-x: auto;
+      white-space: pre-wrap;
+      word-break: break-word;
+    "><code id="bibtex-block">@article{aoyama2025few,
   title={Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing},
   author={Aoyama, Marina Y and Vijayakumar, Sethu and Narita, Tetsuya},
   journal={IEEE Robotics and Automation Letters},
   year={2025},
-  publisher={IEEE test}
+  publisher={IEEE test test test}
 }</code></pre>
+  </div>
 </div>
 
 <script>

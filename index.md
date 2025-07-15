@@ -189,9 +189,6 @@ All videos are shown at 1.0× speed!
 ### Citation 
 <div class="wide citation-wide" style="
     max-width: 1020px;
-    width: 100vw;
-    margin-left: calc((100vw - 1020px) / -2);
-    margin-right: calc((100vw - 1020px) / -2);
     padding: 0 1rem;
     box-sizing: border-box;
     text-align: left;

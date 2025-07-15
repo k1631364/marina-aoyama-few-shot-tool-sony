@@ -29,7 +29,7 @@ IEEE Robotics and Automation Letters (RA-L) 2025
 
 Our few-shot approach learns to manipulate new tools with few demonstrations! 
 
-<video width="800" height="450" controls muted loop autoplay>
+<video width="800" height="450" controls muted loop autoplay playsinline webkit-playsinline>
   <source src="assets/videos/fourtask_short_video_compressed_noaudio.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

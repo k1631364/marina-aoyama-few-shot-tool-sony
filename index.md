@@ -166,18 +166,28 @@ All videos are shown at 1.0× speed!
 
 ### Citation 
 
-<div class="wide" style="margin: 2rem auto; text-align: left;">
-    <pre style="
-      font-family: monospace;
-      font-size: 0.85rem;
-      background: #f5f5f5;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-      padding: 0.75rem;
-      overflow-x: auto;
-      white-space: pre-wrap;
-      word-break: break-word;
-    "><code>@article{aoyama2025few,
+<div class="wide" style="
+  max-width: 1150px;
+  width: 100vw;
+  margin-left: calc((100% - 1150px) / -2);
+  margin-right: calc((100% - 1150px) / -2);
+  padding: 0 1rem;
+  box-sizing: border-box;
+  text-align: left;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+">
+  <pre style="
+    font-family: monospace;
+    font-size: 0.85rem;
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 0.75rem;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+  "><code>@article{aoyama2025few,
   title={Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing},
   author={Aoyama, Marina Y and Vijayakumar, Sethu and Narita, Tetsuya},
   journal={IEEE Robotics and Automation Letters},

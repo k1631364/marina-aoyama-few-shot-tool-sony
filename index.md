@@ -23,6 +23,11 @@ IEEE Robotics and Automation Letters (RA-L) 2025
     <span class="icon"><i class="fas fa-video"></i></span>
     <span>Video</span>
   </a>
+
+  <a href="#" id="jumpToVideo" class="my-button">
+    <span class="icon"><i class="fas fa-video"></i></span>
+    <span>Video</span>
+  </a>
 </div>
 
 Our few-shot approach learns to manipulate new tools with few demonstrations! 
@@ -183,4 +188,19 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
   publisher={IEEE}
 }</textarea>
 </div>
+
+<script>
+  const link = document.getElementById('jumpToVideo');
+  const video = document.getElementById('myVideo');
+
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    // Set the video time to 11 seconds
+    video.currentTime = 11;
+    // Play the video
+    video.play();
+    // Scroll to video (optional)
+    video.scrollIntoView({behavior: 'smooth'});
+  });
+</script>
 

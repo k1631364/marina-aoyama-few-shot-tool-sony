@@ -201,18 +201,16 @@ All videos are shown at 1.0× speed!
     position: relative;
   ">
   <button onclick="copyBibtex(this)" style="
-      position: absolute;
-      top: 0.5rem;
-      right: 0.5rem;
-      font-size: 0.75rem;
-      padding: 0.3rem 0.6rem;
-      border: none;
-      background: #ddd;
-      border-radius: 4px;
-      cursor: pointer;
-    ">
-    <i class="fas fa-copy"></i>
-  </button>
+    position: absolute;
+    top: 0.5rem;
+    right: 1.0rem;
+    font-size: 0.75rem;
+    padding: 0.3rem 0.6rem;
+    border: none;
+    background: #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+  ">Copy</button>
   <pre style="
     font-family: monospace;
     font-size: 0.85rem;

@@ -198,7 +198,7 @@ All videos are shown at 1.0× speed!
   <button onclick="copyBibtex(this)" style="
     position: absolute;
     top: 0.5rem;
-    right: 10.5rem;
+    right: 20.5rem;
     font-size: 0.75rem;
     padding: 0.3rem 0.6rem;
     border: none;
@@ -221,7 +221,7 @@ All videos are shown at 1.0× speed!
   author={Aoyama, Marina Y and Vijayakumar, Sethu and Narita, Tetsuya},
   journal={IEEE Robotics and Automation Letters},
   year={2025},
-  publisher={IEEE test test}
+  publisher={IEEE test}
 }</code></pre>
 </div>
 

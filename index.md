@@ -189,28 +189,30 @@ All videos are shown at 1.0× speed!
 ### Citation 
 
 <div class="wide" style="
-  max-width: 1050px;
-  width: 100vw;
-  margin-left: calc((100vw - 1050px) / -2);
-  margin-right: calc((100vw - 1050px) / -2);
-  padding: 0 1rem;
-  box-sizing: border-box;
-  text-align: left;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  position: relative;
-">
+    max-width: 1050px;
+    width: 100vw;
+    margin-left: calc((100vw - 1050px) / -2);
+    margin-right: calc((100vw - 1050px) / -2);
+    padding: 0 1rem;
+    box-sizing: border-box;
+    text-align: left;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    position: relative;
+  ">
   <button onclick="copyBibtex(this)" style="
-    position: absolute;
-    top: 0.5rem;
-    right: 0.5rem;
-    font-size: 0.75rem;
-    padding: 0.3rem 0.6rem;
-    border: none;
-    background: #ddd;
-    border-radius: 4px;
-    cursor: pointer;
-  ">Copy</button>
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      font-size: 0.75rem;
+      padding: 0.3rem 0.6rem;
+      border: none;
+      background: #ddd;
+      border-radius: 4px;
+      cursor: pointer;
+    ">
+    <i class="fas fa-copy"></i>
+  </button>
   <pre style="
     font-family: monospace;
     font-size: 0.85rem;

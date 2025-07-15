@@ -188,7 +188,6 @@ All videos are shown at 1.0× speed!
 
 ### Citation 
 <div class="citation-wide" style="
-    max-width: 1020px;
     padding: 0 1rem;
     box-sizing: border-box;
     text-align: left;

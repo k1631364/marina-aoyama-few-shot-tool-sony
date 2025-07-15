@@ -96,6 +96,34 @@
       font-family: 'Google Sans', sans-serif;
       color: #4286f4; /* uncomment this if you want that blue */
     }
+
+    video, img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .video-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+    }
+
+    @media (max-width: 768px) {
+      .video-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (min-width: 900px) {
+      .wide {
+        max-width: 1150px;
+        margin-left: calc((100vw - 1150px) / -2);
+        margin-right: calc((100vw - 1150px) / -2);
+      }
+    }
+    
   </style>
 </head>
 <body>

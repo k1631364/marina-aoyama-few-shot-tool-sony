@@ -57,7 +57,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem 1rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
-    <video width="400" controls>
+    <video width="400" controls muted>
       <source src="assets/videos/smallbrush_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -65,7 +65,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls>
+    <video width="400" controls muted>
       <source src="assets/videos/widebrush_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -73,7 +73,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls>
+    <video width="400" controls muted>
       <source src="assets/videos/broom_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -81,7 +81,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls>
+    <video width="400" controls muted>
       <source src="assets/videos/sponge_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -95,7 +95,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
-    <video width="400" controls>
+    <video width="400" controls muted>
       <source src="assets/videos/real_online_inclination_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -103,7 +103,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls>
+    <video width="400" controls muted>
       <source src="assets/videos/real_online_deformable_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -115,7 +115,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
 <div style="display: flex; justify-content: center; gap: 1rem; max-width: 800px; margin: 2rem auto 0 auto;">
 
   <div style="text-align: center;">
-    <video width="400" controls>
+    <video width="400" controls muted>
       <source src="assets/videos/smallbrush_step_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -130,7 +130,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
-    <video width="400" controls>
+    <video width="400" controls muted>
       <source src="assets/videos/smallbrush_demoonly_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -138,7 +138,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls>
+    <video width="400" controls muted>
       <source src="assets/videos/smallbrush_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -152,7 +152,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
 <div style="display: flex; justify-content: center; gap: 1rem; max-width: 800px; margin: auto;">
   
   <div style="text-align: center;">
-    <video width="400" controls>
+    <video width="400" controls muted>
       <source src="assets/videos/real_disturbances_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>

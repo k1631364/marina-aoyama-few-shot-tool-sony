@@ -67,7 +67,7 @@ All videos are shown at 1.0× speed!
 
   <div style="text-align: center;">
     <video width="400" controls muted>
-      <source src="assets/videos/widebrush_short_compressed.mp4" type="video/mp4">
+      <source src="assets/videos/widebrush_short_compressed_noaudio.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Wide brush</div>
@@ -83,7 +83,7 @@ All videos are shown at 1.0× speed!
 
   <div style="text-align: center;">
     <video width="400" controls muted>
-      <source src="assets/videos/sponge_short_compressed.mp4" type="video/mp4">
+      <source src="assets/videos/sponge_short_compressed_noaudio.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Sponge</div>
@@ -117,7 +117,7 @@ All videos are shown at 1.0× speed!
 
   <div style="text-align: center;">
     <video width="400" controls muted>
-      <source src="assets/videos/smallbrush_step_short_compressed.mp4" type="video/mp4">
+      <source src="assets/videos/smallbrush_step_short_compressed_noaudio.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <div style="font-size: 0.85rem; color: #555; margin-top: 0.25rem;">Step painting</div>

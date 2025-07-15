@@ -85,5 +85,21 @@
 </head>
 <body>
   {{ content }}
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const link = document.getElementById('jumpToVideo');
+      const video = document.getElementById('myVideo');
+
+      if (link && video) {
+        link.addEventListener('click', (e) => {
+          e.preventDefault();
+          video.currentTime = 11;
+          video.play();
+          video.scrollIntoView({behavior: 'smooth'});
+        });
+      }
+    });
+  </script>
 </body>
 </html>

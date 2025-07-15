@@ -57,7 +57,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem 1rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
-    <video width="400" controls muted>
+    <video width="400" controls muted loop autoplay>
       <source src="assets/videos/smallbrush_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>

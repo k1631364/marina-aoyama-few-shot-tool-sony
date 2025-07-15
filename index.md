@@ -189,10 +189,10 @@ All videos are shown at 1.0× speed!
 ### Citation 
 
 <div class="wide" style="
-    max-width: 1050px;
+    max-width: 1020px;
     width: 100vw;
-    margin-left: calc((100vw - 1050px) / -2);
-    margin-right: calc((100vw - 1050px) / -2);
+    margin-left: calc((100vw - 1020px) / -2);
+    margin-right: calc((100vw - 1020px) / -2);
     padding: 0 1rem;
     box-sizing: border-box;
     text-align: left;
@@ -203,7 +203,7 @@ All videos are shown at 1.0× speed!
   <button onclick="copyBibtex(this)" style="
     position: absolute;
     top: 0.5rem;
-    right: 1.0rem;
+    right: 1.2rem;
     font-size: 0.75rem;
     padding: 0.3rem 0.6rem;
     border: none;

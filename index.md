@@ -166,8 +166,7 @@ All videos are shown at 1.0× speed!
 
 ### Citation 
 
-<div style="width: 100%;">
-  <div style="margin: 2rem auto; max-width: 1150px; text-align: left;">
+<div class="wide" style="margin: 2rem auto; text-align: left;">
     <pre style="
       font-family: monospace;
       font-size: 0.85rem;
@@ -185,7 +184,6 @@ All videos are shown at 1.0× speed!
   year={2025},
   publisher={IEEE}
 }</code></pre>
-  </div>
 </div>
 
 

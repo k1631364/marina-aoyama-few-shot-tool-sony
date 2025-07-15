@@ -141,19 +141,26 @@
   {{ content }}
 
   <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const link = document.getElementById('jumpToVideo');
-      const video = document.getElementById('myVideo');
+  document.addEventListener('DOMContentLoaded', () => {
+    const link = document.getElementById('jumpToVideo');
+    const video = document.getElementById('myVideo');
 
-      if (link && video) {
-        link.addEventListener('click', (e) => {
-          e.preventDefault();
-          video.currentTime = 11;
+    if (link && video) {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        video.pause();  // pause first to avoid playing from old position
+
+        const onSeeked = () => {
           video.play();
-          video.scrollIntoView({behavior: 'smooth'});
-        });
-      }
-    });
-  </script>
+          video.removeEventListener('seeked', onSeeked);
+          video.scrollIntoView({ behavior: 'smooth' });
+        };
+
+        video.addEventListener('seeked', onSeeked);
+        video.currentTime = 11;  // triggers seeked event when done
+      });
+    }
+  });
+</script>
 </body>
 </html>

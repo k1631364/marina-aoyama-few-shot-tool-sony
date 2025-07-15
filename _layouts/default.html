@@ -58,15 +58,28 @@
       margin-top: 2rem;
       margin-bottom: 2rem;
     }
+    .citation-wide {
+      max-width: 1150px;
+      width: 100vw;
+      margin-left: calc((100vw - 1150px) / -2);
+      margin-right: calc((100vw - 1150px) / -2);
+      padding: 0 1rem;
+      box-sizing: border-box;
+      text-align: left;
+      position: relative;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    }
+    
     @media (max-width: 768px) {
       .citation-wide {
-        position: relative !important;
-        width: 100% !important;
-        max-width: 100% !important;
-        margin-left: 0 !important;
-        margin-right: 0 !important;
-        padding-left: 1rem !important;
-        padding-right: 1rem !important;
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 1rem;
+        padding-right: 1rem;
       }
     }
 

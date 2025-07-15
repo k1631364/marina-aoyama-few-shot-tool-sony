@@ -221,7 +221,7 @@ All videos are shown at 1.0× speed!
   author={Aoyama, Marina Y and Vijayakumar, Sethu and Narita, Tetsuya},
   journal={IEEE Robotics and Automation Letters},
   year={2025},
-  publisher={IEEE}
+  publisher={IEEE test test}
 }</code></pre>
 </div>
 

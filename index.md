@@ -198,7 +198,19 @@ All videos are shown at 1.0× speed!
   text-align: left;
   margin-top: 2rem;
   margin-bottom: 2rem;
+  position: relative;
 ">
+  <button onclick="copyBibtex(this)" style="
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    font-size: 0.75rem;
+    padding: 0.3rem 0.6rem;
+    border: none;
+    background: #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+  ">Copy</button>
   <pre style="
     font-family: monospace;
     font-size: 0.85rem;
@@ -209,7 +221,7 @@ All videos are shown at 1.0× speed!
     overflow-x: auto;
     white-space: pre-wrap;
     word-break: break-word;
-  "><code>@article{aoyama2025few,
+  "><code id="bibtex-block">@article{aoyama2025few,
   title={Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing},
   author={Aoyama, Marina Y and Vijayakumar, Sethu and Narita, Tetsuya},
   journal={IEEE Robotics and Automation Letters},
@@ -217,6 +229,16 @@ All videos are shown at 1.0× speed!
   publisher={IEEE}
 }</code></pre>
 </div>
+
+<script>
+  function copyBibtex(button) {
+    const code = button.nextElementSibling.querySelector('code');
+    navigator.clipboard.writeText(code.textContent).then(() => {
+      button.textContent = 'Copied!';
+      setTimeout(() => { button.textContent = 'Copy'; }, 2000);
+    });
+  }
+</script>
 
 
 

@@ -7,9 +7,9 @@ title: Few-shot transfer of tool-use skills using human demonstrations with prox
 
 # Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing
 
-<a href="https://scholar.google.com/citations?user=OJmSDo8AAAAJ&hl=ja&oi=ao" target="_blank">Marina Y. Aoyama</a><sup>1</sup>, 
-<a href="https://scholar.google.com/citations?user=JdRs1sQAAAAJ&hl=ja&oi=ao" target="_blank">Sethu Vijayakumar</a><sup>1</sup>, 
-<a href="https://ieeexplore.ieee.org/author/37088504288" target="_blank">Tetsuya Narita</a><sup>2</sup>
+<a href="https://scholar.google.com/citations?user=OJmSDo8AAAAJ&hl=ja&oi=ao" target="_blank" style="color: #5faee3;">Marina Y. Aoyama</a><sup>1</sup>, 
+<a href="https://scholar.google.com/citations?user=JdRs1sQAAAAJ&hl=ja&oi=ao" target="_blank" style="color: #5faee3;">Sethu Vijayakumar</a><sup>1</sup>, 
+<a href="https://ieeexplore.ieee.org/author/37088504288" target="_blank" style="color: #5faee3;">Tetsuya Narita</a><sup>2</sup>
 
 <sup>1</sup>The University of Edinburgh, <sup>2</sup>Sony Group Corporation 
 

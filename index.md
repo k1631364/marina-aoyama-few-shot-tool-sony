@@ -168,9 +168,9 @@ All videos are shown at 1.0× speed!
 
 <div class="wide" style="
   max-width: 1150px;
-  width: calc(100% + 2rem);
-  margin-left: -1rem;
-  margin-right: -1rem;
+  width: 100vw;
+  margin-left: calc((100vw - 1150px) / -2);
+  margin-right: calc((100vw - 1150px) / -2);
   padding: 0 1rem;
   box-sizing: border-box;
   text-align: left;
@@ -195,5 +195,6 @@ All videos are shown at 1.0× speed!
   publisher={IEEE}
 }</code></pre>
 </div>
+
 
 

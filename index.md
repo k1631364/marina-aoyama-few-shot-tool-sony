@@ -47,7 +47,7 @@ Tools extend the manipulation abilities of robots, much like they do for humans.
 
 To address this, we propose a few-shot tool-use skill transfer framework using multimodal sensing. The framework involves pre-training the base policy to capture contact states common in tool-use skills in simulation and fine-tuning it with human demonstrations collected in the real-world target domain to bridge the domain gap. 
 
-<video width="800" height="450" controls muted loop autoplay>
+<video width="800" height="450" controls muted loop autoplay playsinline webkit-playsinline>
   <source src="assets/videos/method_noaudio_speedup.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -57,7 +57,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/sim_datacollection_cropped.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -65,7 +65,7 @@ To address this, we propose a few-shot tool-use skill transfer framework using m
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/demo_datacollection_cropped.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -82,7 +82,7 @@ All videos are shown at 1.0× speed!
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem 1rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/smallbrush_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -90,7 +90,7 @@ All videos are shown at 1.0× speed!
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/widebrush_short_compressed_noaudio.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -98,7 +98,7 @@ All videos are shown at 1.0× speed!
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/broom_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -106,7 +106,7 @@ All videos are shown at 1.0× speed!
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/sponge_short_compressed_noaudio.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -120,7 +120,7 @@ All videos are shown at 1.0× speed!
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/real_online_inclination_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -128,7 +128,7 @@ All videos are shown at 1.0× speed!
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/real_online_deformable_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -140,7 +140,7 @@ All videos are shown at 1.0× speed!
 <div style="display: flex; justify-content: center; gap: 1rem; max-width: 800px; margin: 2rem auto 0 auto;">
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/smallbrush_step_short_compressed_noaudio.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -155,7 +155,7 @@ All videos are shown at 1.0× speed!
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; max-width: 900px; margin: auto;">
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/smallbrush_demoonly_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -163,7 +163,7 @@ All videos are shown at 1.0× speed!
   </div>
 
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/smallbrush_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -177,7 +177,7 @@ All videos are shown at 1.0× speed!
 <div style="display: flex; justify-content: center; gap: 1rem; max-width: 800px; margin: auto;">
   
   <div style="text-align: center;">
-    <video width="400" controls muted loop autoplay>
+    <video width="400" controls muted loop autoplay playsinline webkit-playsinline>
       <source src="assets/videos/real_disturbances_short_compressed.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
